@@ -1,5 +1,4 @@
 import React from 'react';
-import ArticleContent from './ArticleContent';
 import { Helmet } from 'react-helmet';
 import { useState, useEffect } from 'react';
 import server from './constanta';
